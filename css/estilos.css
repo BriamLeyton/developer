@@ -1,0 +1,49 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    font-family: 'Product Sans Light Regular';
+}
+
+@font-face {
+    font-family: 'Product Sans Light Regular';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Product Sans Light Regular'), url('fonts/ProductSans-Light.woff') format('woff');
+    }
+
+#primero {
+    background: rgb(23, 221, 16);
+    padding: 10px;
+    margin: 10px;
+    text-align: center;
+    font-size: 100px;
+}
+
+#segundo {
+    background: rgb(11, 190, 221);
+    padding: 10px;
+    margin: 10px;
+    text-align: center;
+    font-size: 100px;
+}
+
+#tercero {
+    background: rgb(194, 4, 4);
+    padding: 10px;
+    margin: 10px;
+    text-align: center;
+    font-size: 100px;
+}
+
+#MadreHermosa {
+    background: rgb(218, 169, 10);
+    padding: 10px;
+    margin: 10px;
+    text-align: center;
+    font-size: 100px;
+    cursor: pointer;
+}
+
+section {
+    text-align: center;
+}
